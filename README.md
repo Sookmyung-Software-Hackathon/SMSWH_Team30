@@ -13,7 +13,7 @@
 
 [Sookmyung-Software-Hackathon/SMSWH_Team30: SMSWH_Team30 (github.com)](https://github.com/Sookmyung-Software-Hackathon/SMSWH_Team30)
 
-https://drive.google.com/drive/folders/1WC3xFgCQIEUYLjDgu8fC4B59AOqUevo9
+https://drive.google.com/file/d/1vfIP0aRcpkz6qUd7Ejtvm998e53SZ0Nr/view?usp=sharing
 
 ### 📍 분야
 
@@ -76,8 +76,7 @@ https://drive.google.com/drive/folders/1WC3xFgCQIEUYLjDgu8fC4B59AOqUevo9
 ## ✏️ 페이지 구성(시나리오)
 
 ---
-
-![스크린샷 2021-11-07 오후 9.36.50.png](%5B%E1%84%90%E1%85%B5%E1%86%B730%5D%20SMSWH%202021%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20e46d1f4e3d624a1db27c648e1802e2e6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.36.50.png)
+<img width="1000" alt="KakaoTalk_20211108_020611567" src="https://user-images.githubusercontent.com/89197996/140654929-aa60cbd6-6046-4443-b923-62df2d1ce920.png">
 
 1. 시작화면을 터치한다.
 2. '음식'과 '수업' 중 송이가 고민 중인 것을 선택한다.
@@ -88,4 +87,4 @@ https://drive.google.com/drive/folders/1WC3xFgCQIEUYLjDgu8fC4B59AOqUevo9
 
 ▼  카드의 앞면과 뒷면의 예시
 
-![스크린샷 2021-11-07 오후 11.16.59.png](%5B%E1%84%90%E1%85%B5%E1%86%B730%5D%20SMSWH%202021%20%E1%84%80%E1%85%B5%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5%20e46d1f4e3d624a1db27c648e1802e2e6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-11-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.16.59.png)
+<img width="800" alt="KakaoTalk_20211108_020613414" src="https://user-images.githubusercontent.com/89197996/140654953-0b9dfd41-7b7e-4a96-994b-f9d4d23d53f2.png">
