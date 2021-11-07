@@ -13,7 +13,7 @@
 
 [Sookmyung-Software-Hackathon/SMSWH_Team30: SMSWH_Team30 (github.com)](https://github.com/Sookmyung-Software-Hackathon/SMSWH_Team30)
 
-https://drive.google.com/file/d/17lVB_YvtYg1YwstLB59WY84GiO8M1YZt/view?usp=sharing
+https://drive.google.com/drive/folders/1WC3xFgCQIEUYLjDgu8fC4B59AOqUevo9
 
 ### 📍 분야
 
