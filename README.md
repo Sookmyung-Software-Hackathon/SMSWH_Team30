@@ -1,6 +1,6 @@
 # [팀30] SMSWH 2021 기획서
 
-# <30팀> ThoughtfulSnow ㄹㄹㄹ
+# <30팀> ThoughtfulSnow
 
 - 구성원
     
