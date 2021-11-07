@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">ThoughtfulSnow</string>
-    <string name="mystring">gi</string>
-    android:contentDescription="@string/imageview_descriptor"/>
-</resources>
