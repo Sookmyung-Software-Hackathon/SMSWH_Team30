@@ -1,4 +1,4 @@
-# [팀30] SMSWH 2021 기획서 [완]
+# [팀30] SMSWH 2021 기획서
 
 # <30팀> ThoughtfulSnow
 
